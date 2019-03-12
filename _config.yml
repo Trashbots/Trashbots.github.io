@@ -18,7 +18,7 @@ email: tbocks@trashbots.co
 description: >- # this means to ignore newlines until "baseurl:"
   TBlocks editor and tools and techniques
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://exampwle.com
 
 twitter_username: trashbotsorg
 github_username:  trashbots
@@ -26,9 +26,10 @@ github_username:  trashbots
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-leap-day
+theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
