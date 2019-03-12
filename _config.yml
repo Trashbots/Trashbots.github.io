@@ -22,11 +22,13 @@ url: "" # the base hostname & protocol for your site, e.g. http://exampwle.com
 
 twitter_username: trashbotsorg
 github_username:  trashbots
+linkedin: trashbots
 
 # Build settings
 markdown: kramdown
 
-theme: minima
+theme: jekyll-theme-slate
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
