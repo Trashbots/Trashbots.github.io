@@ -16,7 +16,7 @@
 title: TBlock
 email: tbocks@trashbots.co
 description: >- # this means to ignore newlines until "baseurl:"
-  TBlocks editor and tools and techniques
+  TBlocks editor tools and techniques
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://exampwle.com
 
