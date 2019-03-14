@@ -37,6 +37,15 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
+defaults:
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      sidebar:
+        nav: "docs"  
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

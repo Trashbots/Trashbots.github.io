@@ -1,0 +1,31 @@
+# Authors
+
+Paul Austin:
+  name        : "Paul Austin"
+  bio         : "Hobit on an adventure."
+  avatar      : "/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "paul@trashbots.co"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:paul@trashbots.co"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://sailboat7.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/MrPaulAustin"
+
+Sidharth Srinivasan:
+name        : "Sidharth Srinivasan"
+bio         : "Bag are pack he's ready to go"
+avatar      : "/assets/images/bio-photo-2.jpg"
+links:
+  - label: "sidharth@trashbots.co"
+    icon: "fas fa-fw fa-envelope-square"
+    url: "mailto:sidharth@trashbots.co"
+  - label: "Website"
+    icon: "fas fa-fw fa-link"
+    url: "https://trashbots.co"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/Sidharth"
