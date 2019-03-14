@@ -1,0 +1,11 @@
+main:
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
+  - title: "Pairing"
+    url: /docs/pairing
+  - title: "TBlocks editor"
+    url: /tblocks/
+  - title: "Blog"
+    url: /blog/
+  - title: "Trashbots"
+    url: https://trashbots.co
