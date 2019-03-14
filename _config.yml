@@ -27,11 +27,14 @@ linkedin: trashbots
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-leap-day
+remote_theme: "mmistakes/minimal-mistakes"
+#theme: jekyll-theme-leap-day
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
