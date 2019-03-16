@@ -14,6 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: TBlocks
+#logo: "/assets/images/logo100x100.png"
+logo: "/assets/images/masthead140x110.png"
 email: tbocks@trashbots.co
 description: >- # this means to ignore newlines until "url:"
   TBlocks microbit block programming for trashbots tb1
@@ -44,7 +46,7 @@ defaults:
       type: docs
     values:
       sidebar:
-        nav: "docs"  
+        nav: "docs"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
